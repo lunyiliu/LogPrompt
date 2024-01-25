@@ -1,0 +1,5 @@
+Parse the following logs into a template format, replacing variable parts with a wildcard (*).
+Convert the following logs into standardized templates by identifying and replacing the variable parts with a *.
+Transform the raw logs into log templates by replacing variable segments with *.
+Given the following logs, extract its common structure and replace variable parts with * to create log templates.
+Create log templates from the raw logs by replacing dynamic segments with *.

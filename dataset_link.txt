@@ -1,0 +1,6 @@
+The effectiveness of our approach is evaluated on public real-world log datasets from nine different domains, including supercomputers, distributed systems, operating systems, mobile systems, and server applications. Two of the datasets were annotated by domain experts to identify anomalous events for the purpose of anomaly detection. To evaluate the log parsing performance, log templates were manually extracted from a subset of 2000 log messages in each domain. 
+The data links:
+(1)The public datasets with manually labelled templates for log parsing: 
+https://github.com/logpai/loghub
+(2)The public datasets with manually labelled anomalies for log anomaly detection:
+https://figshare.com/s/6d3c6a83f4828d17be79
