@@ -1,0 +1,5 @@
+pandas
+textwrap
+tqdm
+requests
+numpy
