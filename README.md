@@ -24,14 +24,14 @@ $ pip install requirements.txt
 
 1. First, obtain the API key for ChatGPT (For other LLMs, please modify the API url accordingly).
    
-3. Prepare your input logs into a excel file with one column 'log'.
+2. Prepare your input logs into a excel file with one column 'log'.
    
-5. Specify a prompt strategy from [Self,CoT,InContext]. If InContext is chosen, prepare your labelled log examples into a excel file with two columns: 'log' and 'label'. 'label' should be either 'normal' or 'abnormal'.
+3. Specify a prompt strategy from [Self,CoT,InContext]. If InContext is chosen, prepare your labelled log examples into a excel file with two columns: 'log' and 'label'. 'label' should be either 'normal' or 'abnormal'.
    
-7. Run by this command:
+4. Run by this command:
 
 ```
 python LogPrompt_code.py --API_KEY YOUR_KEY_HERE --dataset YOUR_INPUT_FILE --strategy YOUR_STRATEGY --output_file_name NAME_OF_OUTPUT --example_file LEAVE_BLANK_IF_NOT_InContext
 ```
 
-9. This will output two files: first is the raw answers and prompts, second is the aligned logs and answers.
+5. This will output two files: first is the raw answers and prompts, second is the aligned logs and answers.
