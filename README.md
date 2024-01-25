@@ -1,5 +1,6 @@
+<p align="center">
 <img style="float: right;" src="asset/workflow.png" width="500">
-
+</p>
 # LogPrompt
 
 This repo contains codes and the dataset for implementing and evaluating LogPrompt, a prompt engineering toolkit for log analysis with LLMs in software O\&M.
