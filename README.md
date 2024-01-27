@@ -53,6 +53,6 @@ python LogPrompt_code.py --API_KEY YOUR_KEY_HERE --dataset YOUR_INPUT_FILE --str
   author={Liu, Yilun and Tao, Shimin and Meng, Weibin and Wang, Jingyu and Ma, Wenbing and Chen, Yuhang and Zhao, Yanqing and Yang, Hao and Jiang, Yanfei},
   booktitle={Proceedings of the 46th International Conference on Program Comprehension (ICPC 2024)},
   year={2024},
-  publisher={ACM}
+  organization={ACM}
 }
 ```
