@@ -35,3 +35,24 @@ python LogPrompt_code.py --API_KEY YOUR_KEY_HERE --dataset YOUR_INPUT_FILE --str
 ```
 
 5. This will output two files: first is the raw answers and prompts, second is the aligned logs and answers.
+
+## Citation
+```
+@inproceedings{liu2024logprompt,
+  title={LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis},
+  author={Liu, Yilun and Tao, Shimin and Meng, Weibin and Yao, Feiyu and Zhao, Xiaofeng and Yang, Hao},
+  booktitle={2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion '24)},
+  year={2024},
+  organization={ACM},
+  doi={10.1145/3639478.3643108}
+}
+```
+```
+@inproceedings{liu2024interpretable,
+  title={Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies},
+  author={Liu, Yilun and Tao, Shimin and Meng, Weibin and Wang, Jingyu and Ma, Wenbing and Chen, Yuhang and Zhao, Yanqing and Yang, Hao and Jiang, Yanfei},
+  booktitle={Proceedings of the 46th International Conference on Program Comprehension (ICPC 2024)},
+  year={2024},
+  publisher={ACM}
+}
+```
