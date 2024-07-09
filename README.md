@@ -18,7 +18,7 @@ Automated log analysis is crucial in modern software-intensive systems for facil
 
 ## 🔰 Installation
 ```
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 ## ✨ Usage
 
